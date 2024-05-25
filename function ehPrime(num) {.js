@@ -1,3 +1,10 @@
+// Hugo Yves M Amorim
+// matrícula: 2024100418
+// turma: 963R
+// disciplina: JavaScript
+
+
+
 function ehPrime(num) {
     if (num <= 1) {
         return false;
